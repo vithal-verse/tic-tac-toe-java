@@ -18,4 +18,8 @@ javac TicTacToe.java
 java TicTacToe
 ```
 
+You can also double-click `run-tictactoe.bat` on Windows. It starts the included `TicTacToe.jar` file.
+
+The JAR requires Java to be installed on the laptop.
+
 Player X starts. Click **New Game** to play again.
